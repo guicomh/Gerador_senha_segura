@@ -1,7 +1,7 @@
 # 
 #      Gerador de email e senhas
 #    
-# 
+
 
 import random
 import string
